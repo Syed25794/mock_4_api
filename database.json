@@ -1,0 +1,14 @@
+{
+    "user": [
+        {
+            "id":1,
+            "avatar": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
+            "username": "Harry Potter and the Philosopher's Stone",
+            "fullname": "J. K. Rowling",
+            "email": "fiction",
+            "followers": "2021",
+            "following": "Bloomsbury",
+            "password":""
+        }
+    ]
+}
